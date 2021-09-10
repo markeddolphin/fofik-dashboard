@@ -1,0 +1,16 @@
+/vendor
+.idea/*
+/node_modules
+Homestead.yaml
+Homestead.json
+bower_components
+.env
+.docker/flarepoint-db/*
+
+# PHP Intel cache
+.phpintel/
+
+# PHP CS Fixer cache
+.php_cs.cache
+storage/debugbar/
+public/build/
